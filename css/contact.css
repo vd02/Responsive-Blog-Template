@@ -1,0 +1,28 @@
+.post-img{
+    height:350px;
+    overflow: hidden;
+    margin-top: 5px;
+    margin-bottom: 35px;
+}
+
+.post-img img{
+    width: 100%;
+}
+
+.contact-content{
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;
+}
+
+.form-box input,textarea{
+    width: 60vw;
+    padding: 10px 6px;
+    font-family: 'Poppins', sans-serif;
+    margin: 7px 0;
+    border: 2px solid black;
+}
+
+.btn{
+    align-items: center;
+}
